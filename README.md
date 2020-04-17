@@ -4,7 +4,7 @@
 
 Hardware Info is basically a Qt based app written in c++ . 
 
-It can show all the hardware info installed in the PC just wihin a click.
+It can show all the hardware info installed in the PC just within a click.
 
 # <u>Screenshot</u>
 
